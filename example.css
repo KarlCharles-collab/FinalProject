@@ -1,0 +1,29 @@
+p {
+	font-style: bold; 
+	color: black; 
+	font-size: 65px;
+	border-style: solid;
+	border: 25px color: black;
+}
+.Center {
+width: 800px;
+height: 400px;
+border: 15px color: black;
+margin: 45px;
+
+font-style: italic;
+font-size: 25px;
+text-align: left;
+}
+
+.Apple {
+	left: 70px;
+	border-width: 10px;
+
+}
+
+body {
+	background-color: #e2dae8;
+	padding: 20px;
+	width: auto;
+}
